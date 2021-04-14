@@ -8,7 +8,8 @@
     "children": [
       {
         "file": "./cytisine/1H.json",
-        "title": "1H of cytisine"
+        "title": "1H of cytisine",
+        "selected": true
       },
       {
         "file": "./cytisine/2d/hmbc-only.json",
