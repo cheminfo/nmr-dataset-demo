@@ -1,15 +1,9 @@
 {
   "spectra": [
     {
-      "data": {},
-      "id": "0abwvynpah97",
       "source": {
-        "original": [],
-        "jcamp": null,
-        "jcampURL": "./cytisine/2d/COSY_Cytisin.dx"
-      },
-      "signals": [],
-      "filters": []
+        "jcampURL": "./cytisine/13c.fid.jdx"
+      }
     }
   ],
   "molecules": [

@@ -1,18 +1,28 @@
 {
   "spectra": [
     {
-      "data": {},
       "source": {
-        "original": [],
-        "jcamp": null,
-        "jcampURL": "./cytisine/2d/HMBC_HN_Cytisin.dx"
-      },
-      "display": {
-        "name": "test",
-        "color": "#C10020",
-        "isVisible": true,
-        "isPeaksMarkersVisible": true,
-        "isRealSpectrumVisible": true
+        "jcampURL": "./cytisine/2d/hsqc.jdx"
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./cytisine/2d/cosy.jdx"
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./cytisine/2d/hmbc.jdx"
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./cytisine/13c.jdx"
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./cytisine/1h.jdx"
       }
     }
   ],

@@ -1,0 +1,64 @@
+{
+  "spectra": [
+    {
+      "data": {},
+      "id": "rwqz5z8yeba",
+      "source": {
+        "jcamp": null,
+        "jcampURL": "./cytisine/dept/dept45.jdx"
+      },
+      "display": {
+        "name": "DEPT 45",
+        "color": "#FFB300",
+        "isVisible": true,
+        "isPeaksMarkersVisible": true,
+        "isRealSpectrumVisible": true
+      }
+    },
+    {
+      "data": {},
+      "id": "rwqz5z8yebv",
+      "source": {
+        "jcamp": null,
+        "jcampURL": "./cytisine/dept/dept90.jdx"
+      },
+      "display": {
+        "name": "DEPT 90",
+        "color": "#803E75",
+        "isVisible": true,
+        "isPeaksMarkersVisible": true,
+        "isRealSpectrumVisible": true
+      }
+    },
+    {
+      "data": {},
+      "id": "rwqz5z8yebq",
+      "source": {
+        "jcamp": null,
+        "jcampURL": "./cytisine/dept/dept135.jdx"
+      },
+      "display": {
+        "name": "DEPT 135",
+        "color": "#A6BDD7",
+        "isVisible": true,
+        "isPeaksMarkersVisible": true,
+        "isRealSpectrumVisible": true
+      }
+    },
+    {
+      "data": {},
+      "id": "rwqz5z8yebl",
+      "source": {
+        "jcamp": null,
+        "jcampURL": "./cytisine/dept/deptq.jdx"
+      },
+      "display": {
+        "name": "DEPT Q",
+        "color": "#C10020",
+        "isVisible": true,
+        "isPeaksMarkersVisible": true,
+        "isRealSpectrumVisible": true
+      }
+    }
+  ]
+}

@@ -3,45 +3,55 @@
     "title": "Empty"
   },
   {
-    "groupName": "General",
+    "groupName": "Cytisine",
     "children": [
       {
-        "file": "./cytisine/1H.json",
-        "title": "1H of cytisine",
+        "file": "./cytisine/1h.json",
+        "title": "1H",
         "selected": true
       },
       {
-        "file": "./cytisine/2d/hmbc-only.json",
-        "title": "HMBC only cytisine"
+        "file": "./cytisine/dept/dept.json",
+        "title": "DEPT"
       },
       {
-        "file": "./cytisine/2d/hsqc.json",
-        "title": "HSQC cytisine"
-      },
-      {
-        "file": "./cytisine/2d/hsqc_hmbc.json",
-        "title": "HSQC / HMBC cytisine"
-      },
-      {
-        "file": "./cytisine/2d/all.json",
-        "title": "Full cytisine"
-      },
-      {
-        "file": "./cytisine/2d/HMBC_HN_Cytisin.json",
-        "title": "1H, 15N HMQC cytisine"
-      },
-      {
-        "file": "./ethylbenzene/cosy.json",
-        "title": "COSY ethylbenzene"
-      },
-      {
-        "file": "./cytisine/13CFID.json",
-        "title": "13C FID of cytisine"
+        "file": "./cytisine/13c.fid.json",
+        "title": "13C FID"
       },
       {
         "file": "./cytisine/processed13C.json",
         "title": "Processed 13C Spectrum"
       },
+      {
+        "file": "./cytisine/2d/hmbc.json",
+        "title": "HMBC"
+      },
+      {
+        "file": "./cytisine/2d/hsqc.json",
+        "title": "HSQC"
+      },
+      {
+        "file": "./cytisine/2d/hsqc-hmbc.json",
+        "title": "HSQC / HMBC"
+      },
+      {
+        "file": "./cytisine/index.json",
+        "title": "Full cytisine"
+      },
+      {
+        "file": "./cytisine/2d/hmqc-hn.json",
+        "title": "1H - 15N HMQC"
+      }
+    ]
+  },
+  {
+    "groupName": "General",
+    "children": [
+      {
+        "file": "./ethylbenzene/cosy.json",
+        "title": "COSY ethylbenzene"
+      },
+
       {
         "file": "./xtc/XTClight.json",
         "title": "Ecstasy pills spectra"
@@ -51,15 +61,12 @@
         "title": "Coffee extract"
       },
       {
-        "file": "./108-21-4/CoupledDecoupled13C.json",
+        "file": "./108-21-4/index.json",
         "title": "13C Coupled / Decoupled"
       },
+
       {
-        "file": "./cytisine/Dept.json",
-        "title": "DEPT"
-      },
-      {
-        "file": "./19f/19f.json",
+        "file": "./19f/index.json",
         "title": "19F with baseline problems"
       }
     ]
