@@ -6,40 +6,40 @@
     "groupName": "Cytisine",
     "children": [
       {
-        "file": "./cytisine/1h.json",
+        "file": "./cytisine/1h.nmrium",
         "title": "1H",
         "selected": true
       },
       {
-        "file": "./cytisine/dept/dept.json",
+        "file": "./cytisine/dept/dept.nmrium",
         "title": "DEPT"
       },
       {
-        "file": "./cytisine/13c.fid.json",
+        "file": "./cytisine/13c.fid.nmrium",
         "title": "13C FID"
       },
       {
-        "file": "./cytisine/processed13C.json",
+        "file": "./cytisine/processed13C.nmrium",
         "title": "Processed 13C Spectrum"
       },
       {
-        "file": "./cytisine/2d/hmbc.json",
+        "file": "./cytisine/2d/hmbc.nmrium",
         "title": "HMBC"
       },
       {
-        "file": "./cytisine/2d/hsqc.json",
+        "file": "./cytisine/2d/hsqc.nmrium",
         "title": "HSQC"
       },
       {
-        "file": "./cytisine/2d/hsqc-hmbc.json",
+        "file": "./cytisine/2d/hsqc-hmbc.nmrium",
         "title": "HSQC / HMBC"
       },
       {
-        "file": "./cytisine/index.json",
+        "file": "./cytisine/index.nmrium",
         "title": "Full cytisine"
       },
       {
-        "file": "./cytisine/2d/hmqc-hn.json",
+        "file": "./cytisine/2d/hmqc-hn.nmrium",
         "title": "1H - 15N HMQC"
       }
     ]
@@ -48,25 +48,25 @@
     "groupName": "General",
     "children": [
       {
-        "file": "./ethylbenzene/cosy.json",
+        "file": "./ethylbenzene/cosy.nmrium",
         "title": "COSY ethylbenzene"
       },
 
       {
-        "file": "./xtc/XTClight.json",
+        "file": "./xtc/XTClight.nmrium",
         "title": "Ecstasy pills spectra"
       },
       {
-        "file": "./coffee/Coffee.json",
+        "file": "./coffee/coffee.nmrium",
         "title": "Coffee extract"
       },
       {
-        "file": "./108-21-4/index.json",
+        "file": "./108-21-4/index.nmrium",
         "title": "13C Coupled / Decoupled"
       },
 
       {
-        "file": "./19f/index.json",
+        "file": "./19f/index.nmrium",
         "title": "19F with baseline problems"
       }
     ]
@@ -75,39 +75,39 @@
     "groupName": "Simulated",
     "children": [
       {
-        "file": "./tests/simulated/d1-2-3-4-5-6-7-8.json",
+        "file": "./tests/simulated/d1-2-3-4-5-6-7-8.nmrium",
         "title": "δ=1,2,3,4,5,6,7,8"
       },
       {
-        "file": "./tests/simulated/d1-2-3-4-5-6-7-8HR.json",
+        "file": "./tests/simulated/d1-2-3-4-5-6-7-8HR.nmrium",
         "title": "δ=1,2,3,4,5,6,7,8 HR"
       },
       {
-        "file": "./tests/simulated/d1-1.2_j7.json",
+        "file": "./tests/simulated/d1-1.2_j7.nmrium",
         "title": "δ=1,1.2 J=7"
       },
       {
-        "file": "./tests/simulated/d1-2_j7.json",
+        "file": "./tests/simulated/d1-2_j7.nmrium",
         "title": "δ=1,2 J=7"
       },
       {
-        "file": "./tests/simulated/d1-2-3_j16-10-2.json",
+        "file": "./tests/simulated/d1-2-3_j16-10-2.nmrium",
         "title": "δ=1,2,3 J=2,10,16"
       },
       {
-        "file": "./tests/simulated/d1-7_j7.json",
+        "file": "./tests/simulated/d1-7_j7.nmrium",
         "title": "δ=1,7 J=7"
       },
       {
-        "file": "./tests/simulated/d1-2-3-4-5-6-7-8_baseline.json",
+        "file": "./tests/simulated/d1-2-3-4-5-6-7-8_baseline.nmrium",
         "title": "Tests with baseline"
       },
       {
-        "file": "./tests/triangle/low-res.json",
+        "file": "./tests/triangle/low-res.nmrium",
         "title": "Test low resolution"
       },
       {
-        "file": "./tests/triangle/high-res.json",
+        "file": "./tests/triangle/high-res.nmrium",
         "title": "Test high resolution"
       }
     ]
