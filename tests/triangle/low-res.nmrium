@@ -6,7 +6,7 @@
       "source": {
         "original": [],
         "jcamp": null,
-        "jcampURL": "./tests/triangle/low-res.jdx"
+        "jcampURL": "./triangle/low-res.jdx"
       },
       "display": {
         "name": "test",

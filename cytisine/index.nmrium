@@ -2,32 +2,32 @@
   "spectra": [
     {
       "source": {
-        "jcampURL": "./cytisine/2d/j-resolv.jdx"
+        "jcampURL": "./2d/j-resolv.jdx"
       }
     },
     {
       "source": {
-        "jcampURL": "./cytisine/2d/hsqc.jdx"
+        "jcampURL": "./2d/hsqc.jdx"
       }
     },
     {
       "source": {
-        "jcampURL": "./cytisine/2d/cosy.jdx"
+        "jcampURL": "./2d/cosy.jdx"
       }
     },
     {
       "source": {
-        "jcampURL": "./cytisine/2d/hmbc.jdx"
+        "jcampURL": "./2d/hmbc.jdx"
       }
     },
     {
       "source": {
-        "jcampURL": "./cytisine/13c.jdx"
+        "jcampURL": "./13c.jdx"
       }
     },
     {
       "source": {
-        "jcampURL": "./cytisine/1h.jdx"
+        "jcampURL": "./1h.jdx"
       }
     }
   ],

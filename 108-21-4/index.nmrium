@@ -2,12 +2,12 @@
   "spectra": [
     {
       "source": {
-        "jcampURL": "./108-21-4/13c-coupled.jdx"
+        "jcampURL": "./13c-coupled.jdx"
       }
     },
     {
       "source": {
-        "jcampURL": "./108-21-4/13c-decoupled.jdx"
+        "jcampURL": "./13c-decoupled.jdx"
       }
     }
   ]

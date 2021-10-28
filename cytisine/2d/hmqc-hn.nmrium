@@ -2,7 +2,7 @@
   "spectra": [
     {
       "source": {
-        "jcampURL": "./cytisine/2d/hmqc-hn.jdx"
+        "jcampURL": "./2d/hmqc-hn.jdx"
       }
     }
   ],
