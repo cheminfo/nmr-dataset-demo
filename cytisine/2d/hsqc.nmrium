@@ -2,7 +2,7 @@
   "spectra": [
     {
       "source": {
-        "jcampURL": "./2d/hsqc.jdx"
+        "jcampURL": "./hsqc.jdx"
       }
     }
   ],
