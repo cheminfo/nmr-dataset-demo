@@ -1,9 +1,42 @@
 {
   "spectra": [
     {
+      "data": {},
+      "id": "0abwvynpah97",
       "source": {
-        "jcampURL": "./cytisine/13c.fid.jdx"
-      }
+        "original": [],
+        "jcamp": null,
+        "jcampURL": "./d1-1.2_j7.jdx"
+      },
+      "display": {
+        "name": "test",
+        "color": "#C10020",
+        "isVisible": true,
+        "isPeaksMarkersVisible": true,
+        "isRealSpectrumVisible": true
+      },
+      "info": {
+        "nucleus": "1H",
+        "isFid": false,
+        "isComplex": true,
+        "dimension": 1,
+        "isFt": true,
+        "title": "1H TBI 293 K",
+        "solvent": "CD2Cl2",
+        "pulse": "zg30",
+        "experiment": "1d",
+        "temperature": 293,
+        "frequency": 600.202658313,
+        "type": "NMR SPECTRUM",
+        "probe": "5 mm TBI 1H/31P/D-BB Z-GRD Z8704/0003",
+        "acquisitionMode": 0,
+        "expno": 4,
+        "date": "2010-04-10T05:47:20.000Z"
+      },
+      "peaks": [],
+      "integrals": [],
+      "signals": [],
+      "filters": []
     }
   ],
   "molecules": [

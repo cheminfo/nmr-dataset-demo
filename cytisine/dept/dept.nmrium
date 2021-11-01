@@ -5,7 +5,7 @@
       "id": "rwqz5z8yeba",
       "source": {
         "jcamp": null,
-        "jcampURL": "./cytisine/dept/dept45.jdx"
+        "jcampURL": "./dept45.jdx"
       },
       "display": {
         "name": "DEPT 45",
@@ -20,7 +20,7 @@
       "id": "rwqz5z8yebv",
       "source": {
         "jcamp": null,
-        "jcampURL": "./cytisine/dept/dept90.jdx"
+        "jcampURL": "./dept90.jdx"
       },
       "display": {
         "name": "DEPT 90",
@@ -35,7 +35,7 @@
       "id": "rwqz5z8yebq",
       "source": {
         "jcamp": null,
-        "jcampURL": "./cytisine/dept/dept135.jdx"
+        "jcampURL": "./dept135.jdx"
       },
       "display": {
         "name": "DEPT 135",
@@ -50,7 +50,7 @@
       "id": "rwqz5z8yebl",
       "source": {
         "jcamp": null,
-        "jcampURL": "./cytisine/dept/deptq.jdx"
+        "jcampURL": "./deptq.jdx"
       },
       "display": {
         "name": "DEPT Q",

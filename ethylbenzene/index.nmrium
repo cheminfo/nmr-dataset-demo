@@ -2,7 +2,7 @@
   "spectra": [
     {
       "source": {
-        "jcampURL": "./ethylbenzene/1h.jdx"
+        "jcampURL": "./1h.jdx"
       },
       "display": {
         "name": "test",

@@ -1,0 +1,59 @@
+{
+  "spectra": [
+    {
+      "source": {
+        "jcampURL": "./XTC-814d_zg30.jdx"
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./XTC-888_zg30.jdx"
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./XTC-966_zg30.jdx"
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./XTC-1111a_zg30.jdx"
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./XTC-1132a_zg30.jdx"
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./XTC-1153_zg30.jdx"
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./XTC-1541_zg30.jdx"
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./XTC-1693_zg30.jdx"
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./XTC-1693_zg30.jdx"
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./XTC-1731a_zg30.jdx"
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./XTC-z189_zg30.jdx"
+      }
+    }
+  ]
+}
