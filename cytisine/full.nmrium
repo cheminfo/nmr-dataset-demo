@@ -2,6 +2,11 @@
   "spectra": [
     {
       "source": {
+        "jcampURL": "./2d/j-resolv.jdx"
+      }
+    },
+    {
+      "source": {
         "jcampURL": "./2d/hsqc.jdx"
       }
     },
