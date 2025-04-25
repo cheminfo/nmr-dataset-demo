@@ -4,7 +4,6 @@
     "source": {
       "entries": [
         {
-          "baseURL": "https://cheminfo.github.io/nmr-dataset-demo/ethylvinylether/index.nmrium",
           "relativePath": "1h.jdx"
         }
       ]

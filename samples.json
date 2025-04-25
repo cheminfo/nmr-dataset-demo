@@ -11,6 +11,11 @@
         "selected": true
       },
       {
+        "file": "./ibuprofen/index.nmrium",
+        "title": "Ibuprofen 60MHz",
+        "selected": true
+      },
+      {
         "file": "./ethylbenzene/cosy.nmrium",
         "title": "COSY ethylbenzene"
       },
