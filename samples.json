@@ -8,10 +8,6 @@
         "selected": true
       },
       {
-        "file": "./ibuprofen/index.nmrium",
-        "title": "Ibuprofen 60MHz"
-      },
-      {
         "file": "./ethylbenzene/cosy.nmrium",
         "title": "COSY ethylbenzene"
       },
@@ -67,6 +63,35 @@
       {
         "file": "./cytisine/2d/hmqc-hn.nmrium",
         "title": "1H - 15N HMQC"
+      }
+    ]
+  },
+  {
+    "groupName": "Ibuprofen",
+    "children": [
+      {
+        "file": "./ibuprofen/60_cdcl3.nmrium",
+        "title": "60 MHz (CDCl3)"
+      },
+      {
+        "file": "./ibuprofen/400_cdcl3.nmrium",
+        "title": "400 MHz (CDCl3)"
+      },
+      {
+        "file": "./ibuprofen/600_cdcl3.nmrium",
+        "title": "600 MHz (CDCl3)"
+      },
+      {
+        "file": "./ibuprofen/60_600_cdcl3.nmrium",
+        "title": "60 + 600 MHz"
+      },
+      {
+        "file": "./ibuprofen/400_dmso.nmrium",
+        "title": "400 MHz (DMSO)"
+      },
+      {
+        "file": "./ibuprofen/600_dmso.nmrium",
+        "title": "600 MHz (DMSO)"
       }
     ]
   }
