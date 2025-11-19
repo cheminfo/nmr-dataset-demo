@@ -1,0 +1,15 @@
+[
+  {
+    "groupName": "Failing",
+    "children": [
+      {
+        "file": "./compressed.nmrium",
+        "title": "compressed"
+      },
+      {
+        "file": "./uncompressed.nmrium",
+        "title": "uncompressed"
+      }
+    ]
+  }
+]
