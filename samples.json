@@ -82,6 +82,10 @@
         "title": "600 MHz (CDCl3)"
       },
       {
+        "file": "./ibuprofen/600_cdcl3_full.nmrium",
+        "title": "600 MHz Full (CDCl3)"
+      },
+      {
         "file": "./ibuprofen/60_600_cdcl3.nmrium",
         "title": "60 + 600 MHz"
       },
